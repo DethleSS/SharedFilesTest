@@ -1,0 +1,10 @@
+# Ignore temporary/system files
+*.tmp
+*.log
+*.bak
+Thumbs.db
+.DS_Store
+
+# Ignore hidden folders
+.*
+!/.gitignore
